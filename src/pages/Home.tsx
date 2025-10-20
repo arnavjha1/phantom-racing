@@ -35,7 +35,7 @@ const Home = () => {
           {/* Left Content */}
           <div className="space-y-8 animate-fade-in">
             <div className="inline-block px-4 py-2 bg-primary/10 border border-primary/30 rounded-full">
-              <span className="text-primary font-semibold">Formula 1 Racing Team</span>
+              <span className="text-primary font-semibold">F1 In Schools Team</span>
             </div>
             <h1 className="text-6xl lg:text-7xl font-bold text-foreground leading-tight">
               Speed.<br />
