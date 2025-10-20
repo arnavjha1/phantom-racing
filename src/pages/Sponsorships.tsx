@@ -11,7 +11,7 @@ const sponsorshipTiers = [
     color: "text-cyan-400",
     borderColor: "border-cyan-400",
     price: "$500,000+",
-    companies: ["TechCorp Global", "Velocity Energy"],
+    companies: ["Tharan Black Balls"],
     benefits: [
       "Primary logo placement on car bodywork",
       "Exclusive paddock access for 10 guests per race",
@@ -29,7 +29,7 @@ const sponsorshipTiers = [
     color: "text-yellow-500",
     borderColor: "border-yellow-500",
     price: "$250,000+",
-    companies: ["Apex Automotive", "Quantum Financial", "NextGen Tech"],
+    companies: [""],
     benefits: [
       "Secondary logo placement on car",
       "Paddock access for 6 guests per race",
@@ -47,7 +47,7 @@ const sponsorshipTiers = [
     color: "text-gray-400",
     borderColor: "border-gray-400",
     price: "$100,000+",
-    companies: ["Precision Parts Inc", "Summit Insurance", "Elite Logistics", "PowerDrive Systems"],
+    companies: [""],
     benefits: [
       "Logo on team uniforms and garage",
       "Paddock access for 3 guests per race",
@@ -64,7 +64,7 @@ const sponsorshipTiers = [
     color: "text-orange-600",
     borderColor: "border-orange-600",
     price: "$50,000+",
-    companies: ["Metro Cafe", "Speedway Apparel", "Circuit Media", "Racer's Choice", "Turbo Drinks"],
+    companies: [""],
     benefits: [
       "Logo on team website",
       "Access to 2 race weekend passes",

@@ -40,10 +40,10 @@ const Home = () => {
             <h1 className="text-6xl lg:text-7xl font-bold text-foreground leading-tight">
               Speed.<br />
               Precision.<br />
-              <span className="text-primary">Victory.</span>
+              <span className="text-primary">VICTORY.</span>
             </h1>
             <p className="text-xl text-muted-foreground max-w-xl">
-              Phantom Racing pushes the boundaries of motorsport excellence. Join us on our journey to dominate the track with cutting-edge technology and unmatched determination.
+              Phantom Racing pushes the boundaries of motorsport excellence. Join us on our journey to dominate the track with cutting-edge technology and unmatched determination in the F1 in Schools competition.
             </p>
             <div className="flex gap-4">
               <Link to="/about">

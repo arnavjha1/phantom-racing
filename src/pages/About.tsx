@@ -72,7 +72,7 @@ const About = () => {
             <span className="text-primary font-semibold">Our Team</span>
           </div>
           <h1 className="text-5xl lg:text-6xl font-bold text-foreground mb-6">
-            Meet the Phantom Racing Family
+            Meet the Phantom Racing Family (imma update ppl later)
           </h1>
           <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
             Behind every victory is a team of dedicated professionals pushing the limits of performance. 
