@@ -10,17 +10,17 @@ const sponsorshipTiers = [
     icon: Crown,
     color: "text-cyan-400",
     borderColor: "border-cyan-400",
-    price: "$500,000+",
-    companies: ["Tharan Black Balls"],
+    price: "$2500+",
+    companies: ["no companies currently"],
     benefits: [
-      "Primary logo placement on car bodywork",
-      "Exclusive paddock access for 10 guests per race",
-      "VIP hospitality suite at all races",
-      "Meet & greet with drivers and team principal",
-      "Annual team visit and facility tour",
-      "Full branding rights and co-marketing opportunities",
-      "Social media features and press release inclusion",
-      "Dedicated account manager"
+      "Premium logo placement on car (side pod)",
+      "Prime logo on pit display",
+      "Front / prime position on team uniforms",
+      "Featured in ALL marketing materials",
+      "Monthly social media posts",
+      "Prominent placement on team website",
+      "Mention sponsor in team presentations",
+      "Access to team events: pit tours, build nights, launch events"
     ]
   },
   {
@@ -28,17 +28,16 @@ const sponsorshipTiers = [
     icon: Award,
     color: "text-yellow-500",
     borderColor: "border-yellow-500",
-    price: "$250,000+",
-    companies: [""],
+    price: "$1000+",
+    companies: ["no companies currently"],
     benefits: [
-      "Secondary logo placement on car",
-      "Paddock access for 6 guests per race",
-      "Premium hospitality passes",
-      "Team meet & greet sessions",
-      "Quarterly facility tours",
-      "Co-marketing opportunities",
-      "Social media mentions",
-      "Newsletter features"
+      "Logo on car (secondary area)",
+      "Logo on pit display (good position)",
+      "Logo on team T-shirt (sleeve or back)",
+      "Featured in ALL marketing materials",
+      "Bi-monthly social media posts",
+      "Placement on website",
+      "Mention in team presentations"
     ]
   },
   {
@@ -46,16 +45,14 @@ const sponsorshipTiers = [
     icon: Medal,
     color: "text-gray-400",
     borderColor: "border-gray-400",
-    price: "$100,000+",
-    companies: [""],
+    price: "$500+",
+    companies: ["no companies currently"],
     benefits: [
-      "Logo on team uniforms and garage",
-      "Paddock access for 3 guests per race",
-      "Hospitality passes",
-      "Annual team visit",
-      "Brand visibility in team materials",
-      "Social media recognition",
-      "Promotional content rights"
+      "Smaller logo on car (less prominent spot)",
+      "Logo on pit display",
+      "Included in all marketing materials (less prominence)",
+      "Occasional social media posts (e.g. at season start, event week)",
+      "Logo on website"
     ]
   },
   {
@@ -63,15 +60,12 @@ const sponsorshipTiers = [
     icon: Star,
     color: "text-orange-600",
     borderColor: "border-orange-600",
-    price: "$50,000+",
-    companies: [""],
+    price: "$250+",
+    companies: ["no companies currently"],
     benefits: [
-      "Logo on team website",
-      "Access to 2 race weekend passes",
-      "Team merchandise package",
-      "Recognition in press materials",
-      "Email newsletter features",
-      "Digital content rights"
+      "Logo on pit display (smaller spot)",
+      "One social media thank-you post",
+      "Logo on website sponsor page"
     ]
   }
 ];

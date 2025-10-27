@@ -4,39 +4,39 @@ import { Card, CardContent } from "@/components/ui/card";
 
 const teamMembers = [
   {
-    name: "Alex Rodriguez",
-    role: "Lead Driver",
-    bio: "With 8 years of professional racing experience, Alex brings unmatched skill and determination to the track. A two-time champion in regional circuits, Alex joined Phantom Racing to compete at the highest level of motorsport.",
-    image: "https://images.unsplash.com/photo-1568602471122-7832951cc4c5?w=400&h=500&fit=crop"
+    name: "Tharan Sivakumar",
+    role: "Team Member",
+    bio: "Tharan is a junior at Redmond High School who is extremely passionate about Formula 1. Ever since he was a young child, he always loved watching Formula 1 and he also likes engineering a lot, so Tharan founded Phantom Racing to compete at the highest level of motorsport.",
+    image: "https://image2url.com/images/1761591049781-58e29e0d-af61-43e1-bb9f-7b09663b208d.jpg"
   },
   {
-    name: "Sarah Chen",
-    role: "Technical Director",
-    bio: "Sarah's innovative approach to aerodynamics has revolutionized our car's performance. With a PhD in Mechanical Engineering and 12 years in F1, she leads our technical team to push the boundaries of what's possible.",
+    name: "Sidhu Chakravarthy",
+    role: "Team Member",
+    bio: "(bio coming soon)",
     image: "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=400&h=500&fit=crop"
   },
   {
-    name: "Marcus Williams",
-    role: "Team Principal",
-    bio: "As Team Principal, Marcus combines strategic vision with hands-on leadership. His 15 years of experience managing racing teams has brought Phantom Racing from startup to championship contender.",
+    name: "Sharav Dhar",
+    role: "Team Member",
+    bio: "(bio coming soon)",
     image: "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=400&h=500&fit=crop"
   },
   {
-    name: "Elena Volkov",
-    role: "Reserve Driver",
-    bio: "Elena is our rising star, consistently posting impressive lap times in practice sessions. Her dedication and natural talent make her a vital part of our racing lineup and future plans.",
+    name: "Jash Vohra",
+    role: "Team Member",
+    bio: "(bio coming soon)",
     image: "https://images.unsplash.com/photo-1580489944761-15a19d654956?w=400&h=500&fit=crop"
   },
   {
-    name: "James Patterson",
-    role: "Chief Engineer",
-    bio: "James oversees all engineering operations, ensuring our cars are optimized for every track condition. His analytical mind and problem-solving skills are crucial to our race-day success.",
-    image: "https://images.unsplash.com/photo-1519345182560-3f2917c472ef?w=400&h=500&fit=crop"
+    name: "Arnav Jha",
+    role: "Team Member",
+    bio: "(bio coming soon)",
+    image: "https://www.mustangmath.com/about-us-images/serious/IMG_1003%20-%20Arnav%20Jha.webp"
   },
   {
-    name: "Nina Patel",
-    role: "Strategy Coordinator",
-    bio: "Nina's race strategy calls have won us multiple podium finishes. She analyzes data in real-time to make split-second decisions that give our drivers the competitive edge they need.",
+    name: "Kandarp Vadadoriya",
+    role: "Team Member",
+    bio: "(bio coming soon)",
     image: "https://images.unsplash.com/photo-1594744803329-e58b31de8bf5?w=400&h=500&fit=crop"
   }
 ];
