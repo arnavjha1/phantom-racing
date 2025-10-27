@@ -13,19 +13,19 @@ const teamMembers = [
     name: "Sidhu Chakravarthy",
     role: "Team Member",
     bio: "(bio coming soon)",
-    image: "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=400&h=500&fit=crop"
+    image: "https://intellij-support.jetbrains.com/hc/user_images/QZP8LIk0pW3bOuWt1P7HIQ.png"
   },
   {
     name: "Sharav Dhar",
     role: "Team Member",
     bio: "(bio coming soon)",
-    image: "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=400&h=500&fit=crop"
+    image: "https://intellij-support.jetbrains.com/hc/user_images/QZP8LIk0pW3bOuWt1P7HIQ.png"
   },
   {
     name: "Jash Vohra",
     role: "Team Member",
     bio: "(bio coming soon)",
-    image: "https://images.unsplash.com/photo-1580489944761-15a19d654956?w=400&h=500&fit=crop"
+    image: "https://intellij-support.jetbrains.com/hc/user_images/QZP8LIk0pW3bOuWt1P7HIQ.png"
   },
   {
     name: "Arnav Jha",
@@ -37,7 +37,7 @@ const teamMembers = [
     name: "Kandarp Vadadoriya",
     role: "Team Member",
     bio: "(bio coming soon)",
-    image: "https://images.unsplash.com/photo-1594744803329-e58b31de8bf5?w=400&h=500&fit=crop"
+    image: "https://intellij-support.jetbrains.com/hc/user_images/QZP8LIk0pW3bOuWt1P7HIQ.png"
   }
 ];
 
