@@ -30,7 +30,7 @@ const teamMembers = [
   {
     name: "Arnav Jha",
     role: "Team Member",
-    bio: "(bio coming soon)",
+    bio: "Arnav is a junior at Redmond High School who is passionate about engineering and motorsports. At a very young age, he has enjoyed programming and robotics a lot through competitions such as USACO and VEX Robotics. He enjoys designing and uilding high-performance vehicles, and is excited to contribute his skills to the Phantom Racing team.",
     image: "https://www.mustangmath.com/about-us-images/serious/IMG_1003%20-%20Arnav%20Jha.webp"
   },
   {
@@ -72,7 +72,7 @@ const About = () => {
             <span className="text-primary font-semibold">Our Team</span>
           </div>
           <h1 className="text-5xl lg:text-6xl font-bold text-foreground mb-6">
-            Meet the Phantom Racing Family (imma update ppl later)
+            Meet the Phantom Racing Family
           </h1>
           <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
             Behind every victory is a team of dedicated professionals pushing the limits of performance. 
