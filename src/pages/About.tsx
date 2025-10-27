@@ -19,7 +19,7 @@ const teamMembers = [
     name: "Sharav Dhar",
     role: "Team Member",
     bio: "(bio coming soon)",
-    image: "https://intellij-support.jetbrains.com/hc/user_images/QZP8LIk0pW3bOuWt1P7HIQ.png"
+    image: "https://image2url.com/images/1761599771210-ee67dcc4-b8e2-4b58-acd8-631188d8d2ff.png"
   },
   {
     name: "Jash Vohra",
