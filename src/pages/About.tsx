@@ -7,7 +7,7 @@ const teamMembers = [
     name: "Tharan Sivakumar",
     role: "Team Member",
     bio: "Tharan is a junior at Redmond High School who is extremely passionate about Formula 1. Ever since he was a young child, he always loved watching Formula 1 and he also likes engineering a lot, so Tharan founded Phantom Racing to compete at the highest level of motorsport.",
-    image: "https://image2url.com/images/1761591049781-58e29e0d-af61-43e1-bb9f-7b09663b208d.jpg"
+    image: "https://image2url.com/images/1761629784774-8b401363-d3c2-4475-a73b-925dfefc24a2.jfif"
   },
   {
     name: "Sidhanth Chakravarthy",

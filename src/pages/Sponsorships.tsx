@@ -4,6 +4,7 @@ import { Button } from "@/components/ui/button";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { Check, Crown, Award, Medal, Star } from "lucide-react";
 
+/* Replace line 181 with actual email link + phone number */
 const sponsorshipTiers = [
   {
     name: "Platinum",
@@ -178,7 +179,7 @@ const Sponsorships = () => {
               </Button>
             </div>
             <p className="text-sm text-muted-foreground mt-6">
-              For inquiries: sponsors@phantomracing.com | +1 (555) 123-4567
+  
             </p>
           </div>
         </div>
