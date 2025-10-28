@@ -10,33 +10,33 @@ const teamMembers = [
     image: "https://image2url.com/images/1761591049781-58e29e0d-af61-43e1-bb9f-7b09663b208d.jpg"
   },
   {
-    name: "Sidhu Chakravarthy",
+    name: "Sidhanth Chakravarthy",
     role: "Team Member",
-    bio: "(bio coming soon)",
-    image: "https://intellij-support.jetbrains.com/hc/user_images/QZP8LIk0pW3bOuWt1P7HIQ.png"
+    bio: "Sidhanth is a junior at Redmond High School and is the Portfolio Manager for Phantom Racing, overseeing branding, documentation, and presentations for the F1 in Schools competition. In his free time, Sidhanth enjoys working on cars and building custom RC vehicles, applying engineering principles from F1 design. He also participates in VEX robotics as the engineer notebooker, where they have won numerous awards.",
+    image: "https://image2url.com/images/1761628807799-7ba0e84a-e441-4af6-b9c4-8343bb30438e.jfif"
   },
   {
     name: "Sharav Dhar",
     role: "Team Member",
-    bio: "(bio coming soon)",
-    image: "https://image2url.com/images/1761599771210-ee67dcc4-b8e2-4b58-acd8-631188d8d2ff.png"
+    bio: "Sharav is a junior at Redmond High School who is passionate about engineering and motorsports. He has a keen interest in aerodynamics and vehicle design, which he has pursued through various projects and competitions. Sharav is excited to contribute his skills and knowledge to the Phantom Racing team as they compete in the F1 in Schools competition. ",
+    image: "https://intellij-support.jetbrains.com/hc/user_images/QZP8LIk0pW3bOuWt1P7HIQ.png"
   },
   {
     name: "Jash Vohra",
     role: "Team Member",
-    bio: "(bio coming soon)",
+    bio: "Jash is a junior at Redmond High School who is extremely excited to be a part of Phantom Racing. He has a strong passion for motorsports and engineering, and he enjoys working on various projects related to cars and racing. Jash is looking forward to contributing his skills and knowledge to help the team succeed in the F1 in Schools competition. Jash also runs his own non-profit organization called LUMA Coding, hosting several hackathons with huge cash prizes of $1000+ as well as teaching thousands of children each year the skills they need to excel in computer science. This showcases his leadership skills as well as his extremely diligent work ethic.",
     image: "https://intellij-support.jetbrains.com/hc/user_images/QZP8LIk0pW3bOuWt1P7HIQ.png"
   },
   {
     name: "Arnav Jha",
     role: "Team Member",
-    bio: "Arnav is a junior at Redmond High School who is passionate about engineering and motorsports. At a very young age, he has enjoyed programming and robotics a lot through competitions such as USACO and VEX Robotics. He enjoys designing and uilding high-performance vehicles, and is excited to contribute his skills to the Phantom Racing team.",
-    image: "https://www.mustangmath.com/about-us-images/serious/IMG_1003%20-%20Arnav%20Jha.webp"
+    bio: "Arnav is a junior at Redmond High School who is passionate about engineering and motorsports. At a very young age, he has enjoyed programming and robotics a lot through competitions such as USACO and VEX Robotics. He enjoys designing and uilding high-performance vehicles, and is excited to contribute his skills to the Phantom Racing team. Outside of Formula 1, Arnav also competitively swims for Redmond High School as well as for a club team and has won multiple awards in his swimming career as well as making it to the district level in Lake Washington Competitive Swimming. Additionally, Arnav is also board of a non-profit organization with Jash called LUMA Coding, hosting several hackathons with huge cash prizes of $1000+ as well as teaching thousands of children each year the skills they need to excel in computer science. This showcases his leadership skills as well as his extremely diligent work ethic.",
+    image: "https://image2url.com/images/1761629121537-b89bd90a-8e12-4dd3-ad38-d9907a2cc1c6.jfif"
   },
   {
     name: "Kandarp Vadadoriya",
     role: "Team Member",
-    bio: "(bio coming soon)",
+    bio: "Kandarp is a junior at Redmond High School who is thrilled to be part of Phantom Racing. He has a deep passion for motorsports and engineering, and enjoys working on various projects related to cars and racing. Kandarp is eager to contribute his skills and knowledge to help the team excel in the F1 in Schools competition.",
     image: "https://intellij-support.jetbrains.com/hc/user_images/QZP8LIk0pW3bOuWt1P7HIQ.png"
   }
 ];
