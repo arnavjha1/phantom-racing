@@ -37,7 +37,7 @@ const teamMembers = [
     name: "Kandarp Vadadoriya",
     role: "Team Member",
     bio: "Kandarp is a junior at Redmond High School who is thrilled to be part of Phantom Racing. He has a deep passion for motorsports and engineering, and enjoys working on various projects related to cars and racing. Kandarp is eager to contribute his skills and knowledge to help the team excel in the F1 in Schools competition.",
-    image: "https://intellij-support.jetbrains.com/hc/user_images/QZP8LIk0pW3bOuWt1P7HIQ.png"
+    image: "https://image2url.com/images/1761630119950-687eb0ff-03b3-4680-88bf-27a90a9abb15.jfif"
   }
 ];
 
